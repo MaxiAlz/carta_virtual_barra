@@ -113,7 +113,7 @@ const VirtualMenu = () => {
             <TableHead>
               <TableRow>
                 <TableCell>
-                  <span style={styles.tittles}>BEBIDAS SIN ALCOHOL  🥤 </span>
+                  <span style={styles.tittles}>BEBIDAS SIN ALCOHOL 🥤</span>
                 </TableCell>
                 <TableCell align="right">
                   {/* <span>PRECIOS</span> */}
