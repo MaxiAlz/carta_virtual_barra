@@ -112,12 +112,10 @@ const VirtualMenu = () => {
           <Table sx={{ maxWidth: 650 }} aria-label="simple table">
             <TableHead>
               <TableRow>
-                <TableCell>
+                <TableCell style={{ paddingRight: "0" }}>
                   <span style={styles.tittles}>BEBIDAS SIN ALCOHOL 🥤</span>
                 </TableCell>
-                <TableCell align="right">
-                  {/* <span>PRECIOS</span> */}
-                </TableCell>
+                <TableCell align="right"></TableCell>
               </TableRow>
             </TableHead>
             <TableBody>
