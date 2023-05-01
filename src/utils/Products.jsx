@@ -22,7 +22,7 @@ const productsInMenu = {
     { amount: 2, name: "smirnoff + speed", size: "chico", price: 1900 },
     { amount: 2, name: "smirnoff + speed", size: "grande", price: 2600 },
     { amount: 2, name: "lata budweiser", size: "", price: 1000 },
-    { amount: 3, name: "Stella astois", size: "", price: 2000 },
+    { amount: 3, name: "Stella artois", size: "", price: 2000 },
     { amount: 2, name: "speed", size: "", price: 1000 },
     
   ],
